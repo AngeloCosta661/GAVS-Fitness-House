@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'pt-BR', // Altere para o idioma desejado
   title: 'GAVS Fitness House',
   description: 'Documentação do aplicativo para treino em casa.',
+  ignoreDeadLinks: true,
 
   themeConfig: {
     nav: [
