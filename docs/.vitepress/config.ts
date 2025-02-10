@@ -20,7 +20,7 @@ export default defineConfig({
       { text: 'Diagrama de Classe', link: '/diagramaDeClasse.md' }, 
       { text: 'Canvas', link: '/canvas.md' },
       { text: 'Riscos e Mitigação', link: '/riscos_mitigacao.md' },
-      { text: 'Custos e Orçamento', link: '/custos_orcamento.md' },
+      { text: 'Custos e Orçamento', link: '/custos.md' },
       { text: 'Considerações Finais', link: '/consideracoes_finais.md' },
     ],
 
@@ -40,7 +40,7 @@ export default defineConfig({
           { text: 'Diagrama de Classe', link: '/diagramaDeClasse.md' }, 
           { text: 'Canvas', link: '/canvas.md' },
           { text: 'Riscos e Mitigação', link: '/riscos_mitigacao.md' },
-          { text: 'Custos e Orçamento', link: '/custos_orcamento.md' },
+          { text: 'Custos e Orçamento', link: '/custos.md' },
           { text: 'Considerações Finais', link: '/consideracoes_finais.md' },
         ],
       },
