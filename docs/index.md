@@ -10,7 +10,7 @@ Bem-vindo à documentação do projeto GAVS Fitness House. Este documento aprese
 - [Canvas](canvas.md)
 - [Stakeholders](stakeholders.md)
 - [Recursos e Funcionalidades](recursos_funcionalidades.md)
-- [Casos de Uso](casos_de_uso.md)
+- [Casos de Uso](caso_de_uso.md)
 - [Diagrama De Classe](diagramaDeClasse.md)
 - [Prototipos de Telas](prototiposTela.md)
 - [Riscos e Mitigação](riscos_mitigacao.md)
