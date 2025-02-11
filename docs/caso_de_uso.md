@@ -1,1 +1,1 @@
-![Caso De Uso](./images/casoDeUso.jpg)
+![Caso De Uso](./images/DiagramadeCasodeUso.jpg)

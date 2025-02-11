@@ -1,1 +1,1 @@
-![Diagrama de Classe](./images/diagramaDeClasse.jpg)
+![Diagrama de Classe](./images/DiagramadeClasse.jpg)
